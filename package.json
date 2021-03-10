@@ -1,0 +1,22 @@
+{
+  "name": "web_tech_demo",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DDemo project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonyaas/WebTech_FMI_21.git"
+  },
+  "author": "\"\"\u001b[Dsonya stoyanova\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonyaas/WebTech_FMI_21/issues"
+  },
+  "homepage": "https://github.com/sonyaas/WebTech_FMI_21#readme",
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
+}
